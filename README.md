@@ -1,5 +1,5 @@
 # BackEnd
-Repositório contendo a API em Sping Boot.<br>
+Repositório contendo a API em Spring Boot.<br>
 Foi utilizado Spring Boot versão 3.1.1 e a versão do Java é 17. <br>
 Projeto criado em Maven.<br>
 As dependências foram:<br>
